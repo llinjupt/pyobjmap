@@ -1,6 +1,9 @@
 Python Object Maps
 ====================
 
+Copyright (c) 2017-2018 Red Liu <lli_njupt@163.com>
+Released under the MIT licence.
+
 Python Object Maps have thre classes: 
 
 1. ClsMap used to draw classes relationship maps like MRO, super-subclasses.
