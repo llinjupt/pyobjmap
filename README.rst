@@ -10,14 +10,14 @@ Python Object Maps have thre classes:
 Python Object Maps based on graphviz and inspect modules. 
 And tested with Python 3.4.
 
-.. figure:: https://github.com/llinjupt/objmap/tree/master/sample/map.png
+.. figure:: sample/map.png
   :scale: 100%
   :align: center
   :alt: map
 
   super-subclasses relationship map example
   
-.. figure:: https://github.com/llinjupt/objmap/tree/master/sample/map_withmro.png
+.. figure:: sample/map_withmro.png
   :scale: 100%
   :align: center
   :alt: map_withmro
