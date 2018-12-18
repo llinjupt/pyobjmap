@@ -109,6 +109,7 @@ class ObjMap():
             module = inspect.getmodule(obj)
             self.root_module = module.__name__
         except:
+            self.root_module = ""
             pass
     
         ''' get root node name itself '''
